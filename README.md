@@ -6,7 +6,7 @@ Language: Java
 
 | Classification | Problem                                   | Difficulty | link                                                                                                                    |
 |----------------|-------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------|
-| Hash           | 1.Two Sum                                 | Easy       | https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md                                               |
+| Hash           | 1.Two Sum                                 | Easy       | [link](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                              |
 | List           | 148. Sort List                            | Medium     | https://github.com/tiansss/Leetcode/blob/master/List/148.%20Sort%20List(Medium).md                                      |
 | List           | 15. 3Sum                                  | Medium     | https://github.com/tiansss/Leetcode/blob/master/List/15.%203Sum(Medium).md                                              |
 | Math           | 50. Pow(x,n)                              | Medium     | https://github.com/tiansss/Leetcode/blob/master/Math/50.%20Pow(x%2C%20n)(Medium).md                                     |
