@@ -6,7 +6,7 @@ Language: Java
 | Classification | Problem                                                                                                                                                              | Difficulty |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
-| List           | [148. Sort] (https://github.com/tiansss/Leetcode/blob/master/List/148.%20Sort%20List(Medium).md)                                                                     | Medium     |
+| List           | [148. Sort](https://github.com/tiansss/Leetcode/blob/master/List/148.%20Sort%20List(Medium).md)                                                                     | Medium     |
 | List           | [15. 3Sum](https://github.com/tiansss/Leetcode/blob/master/List/15.%203Sum(Medium).md)                                                                               | Medium     |
 | Math           | [50. Pow(x,n)](https://github.com/tiansss/Leetcode/blob/master/Math/50.%20Pow(x%2C%20n)(Medium).md)                                                                  | Medium     |
 | String         | [17. Letter Combinations of a Phone Number](https://github.com/tiansss/Leetcode/blob/master/String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(Medium).md) | Medium     |
