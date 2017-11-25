@@ -10,7 +10,7 @@ Language: Java
 | List           | [15. 3Sum](https://github.com/tiansss/Leetcode/blob/master/List/15.%203Sum(Medium).md)                                                                               | Medium     |
 | List           | [283. Move Zeroes](https://github.com/tiansss/Leetcode/blob/master/List/283.%20Move%20Zeroes(Easy).md)|Easy|
 | Math           | [50. Pow(x,n)](https://github.com/tiansss/Leetcode/blob/master/Math/50.%20Pow(x%2C%20n)(Medium).md) | Medium     |
-|Math||[621. Task Scheduler](https://github.com/tiansss/Leetcode/blob/master/Math/621.%20Task%20Scheduler(Medium).md)||Medium|
+|Math|[621. Task Scheduler](https://github.com/tiansss/Leetcode/blob/master/Math/621.%20Task%20Scheduler(Medium).md)|Medium|
 |String|[273. Integer to English Words](https://github.com/tiansss/Leetcode/blob/master/String/273.%20Integer%20to%20English%20Words(Hard).md)|Hard|
 |String          |[301. Remove Invalid Parentheses](https://github.com/tiansss/Leetcode/blob/master/String/301.%20Remove%20Invalid%20Parentheses(Hard).md)|Hard|
 | String         | [17. Letter Combinations of a Phone Number](https://github.com/tiansss/Leetcode/blob/master/String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(Medium).md) | Medium     |
