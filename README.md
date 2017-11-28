@@ -16,6 +16,7 @@ Language: Java
 |Math|[253. Meeting Rooms II](https://github.com/tiansss/Leetcode/blob/master/Math/253.%20Meeting%20Rooms%20II(Medium).md)|Medium|
 |Math|[621. Task Scheduler](https://github.com/tiansss/Leetcode/blob/master/Math/621.%20Task%20Scheduler(Medium).md)|Medium|
 |String|[273. Integer to English Words](https://github.com/tiansss/Leetcode/blob/master/String/273.%20Integer%20to%20English%20Words(Hard).md)|Hard|
+|String|[125. Valid Palindrome](https://github.com/tiansss/Leetcode/blob/master/String/125.%20Valid%20Palindrome(Easy).md)|Easy|
 |String          |[301. Remove Invalid Parentheses](https://github.com/tiansss/Leetcode/blob/master/String/301.%20Remove%20Invalid%20Parentheses(Hard).md)|Hard|
 | String         | [17. Letter Combinations of a Phone Number](https://github.com/tiansss/Leetcode/blob/master/String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(Medium).md) | Medium     |
 | String         | [28. Implement strStr()](https://github.com/tiansss/Leetcode/blob/master/String/28.%20Implement%20strStr()(Easy).md)                                                 | Easy       |
