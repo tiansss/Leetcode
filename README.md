@@ -5,6 +5,7 @@ Language: Java
 
 | Classification | Problem                                                                                                                                                              | Difficulty |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|Basic|[278. First Bad Version](https://github.com/tiansss/Leetcode/blob/master/Basic/278.%20First%20Bad%20Version(Easy).md)|Easy|
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
 |List|[33. Search in Rotated Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/33.%20Search%20in%20Rotated%20Sorted%20Array(Medium).md)|Medium|
 | List           | [148. Sort](https://github.com/tiansss/Leetcode/blob/master/List/148.%20Sort%20List(Medium).md)                                                                     | Medium     |
