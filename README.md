@@ -27,5 +27,6 @@ Language: Java
 | String         | [647. Palindromic Substrings](https://github.com/tiansss/Leetcode/blob/master/String/647.%20Palindromic%20Substrings(Medium).md)                                     | Medium     |
 | String         | [657. Judge Route Circle](https://github.com/tiansss/Leetcode/blob/master/String/657.%20Judge%20Route%20Circle(Easy).md)                                             | Easy       |
 |Tree|[235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/tiansss/Leetcode/blob/master/Tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree(Easy).md)|Easy|
+|Tree|[653. Two Sum IV - Input is a BST](https://github.com/tiansss/Leetcode/blob/master/Tree/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST(Easy).md)|Easy|
 | Tree           | [617. Merge Two Binary Trees](https://github.com/tiansss/Leetcode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees(Easy).md)                                     | Easy       |
 |Tree|[543. Diameter of Binary Tree](https://github.com/tiansss/Leetcode/blob/master/Tree/543.%20Diameter%20of%20Binary%20Tree(Easy).md)|Easy|
