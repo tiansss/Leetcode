@@ -6,6 +6,7 @@ Language: Java
 | Classification | Problem                                                                                                                                                              | Difficulty |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 |DP|[91. Decode Ways](https://github.com/tiansss/Leetcode/blob/master/DP/91.%20Decode%20Ways(Medium).md)|Medium|
+|DP|[121. Best Time to Buy and Sell Stock](https://github.com/tiansss/Leetcode/blob/master/DP/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock(Easy).md)|Easy|
 |Basic|[278. First Bad Version](https://github.com/tiansss/Leetcode/blob/master/Basic/278.%20First%20Bad%20Version(Easy).md)|Easy|
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
 |List|[33. Search in Rotated Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/33.%20Search%20in%20Rotated%20Sorted%20Array(Medium).md)|Medium|
