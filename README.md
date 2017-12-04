@@ -1,6 +1,8 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
+Solved:73 / 701
+
 Language: Java
 
 | Classification | Problem                                                                                                                                                              | Difficulty |
