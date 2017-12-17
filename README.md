@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 80/701
+Solved: 81/701
 
 Language: Java
 
