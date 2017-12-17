@@ -15,6 +15,7 @@ Language: Java
 |Basic|[38. Count and Say](https://github.com/tiansss/Leetcode/blob/master/Basic/38.%20Count%20and%20Say(Easy).md)|Easy|
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
 |List|[33. Search in Rotated Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/33.%20Search%20in%20Rotated%20Sorted%20Array(Medium).md)|Medium|
+|List|[234. Palindrome Linked List](https://github.com/tiansss/Leetcode/blob/master/List/234.%20Palindrome%20Linked%20List(Easy).md)|Easy|
 | List           | [148. Sort](https://github.com/tiansss/Leetcode/blob/master/List/148.%20Sort%20List(Medium).md)                                                                     | Medium     |
 | List           | [15. 3Sum](https://github.com/tiansss/Leetcode/blob/master/List/15.%203Sum(Medium).md)                                                                               | Medium     |
 | List           | [283. Move Zeroes](https://github.com/tiansss/Leetcode/blob/master/List/283.%20Move%20Zeroes(Easy).md)|Easy|
