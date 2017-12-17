@@ -8,6 +8,7 @@ Language: Java
 | Classification | Problem                                                                                                                                                              | Difficulty |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 |Database|[597. Friend Requests I: Overall Acceptance Rate](https://github.com/tiansss/Leetcode/blob/master/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate(Easy).md)|Easy|
+|DP|[674. Longest Continuous Increasing Subsequence](https://github.com/tiansss/Leetcode/blob/master/DP/674.%20Longest%20Continuous%20Increasing%20Subsequence(Easy).md)|Easy|
 |DP|[91. Decode Ways](https://github.com/tiansss/Leetcode/blob/master/DP/91.%20Decode%20Ways(Medium).md)|Medium|
 |DP|[121. Best Time to Buy and Sell Stock](https://github.com/tiansss/Leetcode/blob/master/DP/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock(Easy).md)|Easy|
 |Basic|[278. First Bad Version](https://github.com/tiansss/Leetcode/blob/master/Basic/278.%20First%20Bad%20Version(Easy).md)|Easy|
