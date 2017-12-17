@@ -18,6 +18,7 @@ Language: Java
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
 |List|[33. Search in Rotated Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/33.%20Search%20in%20Rotated%20Sorted%20Array(Medium).md)|Medium|
 |List|[234. Palindrome Linked List](https://github.com/tiansss/Leetcode/blob/master/List/234.%20Palindrome%20Linked%20List(Easy).md)|Easy|
+|List|[157. Read N Characters Given Read4](https://github.com/tiansss/Leetcode/blob/master/List/157.%20Read%20N%20Characters%20Given%20Read4(Easy).md)|Easy|
 |List|[88. Merge Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/88.%20Merge%20Sorted%20Array(Easy).md)|Easy|
 | List           | [148. Sort](https://github.com/tiansss/Leetcode/blob/master/List/148.%20Sort%20List(Medium).md)                                                                     | Medium     |
 | List           | [15. 3Sum](https://github.com/tiansss/Leetcode/blob/master/List/15.%203Sum(Medium).md)                                                                               | Medium     |
