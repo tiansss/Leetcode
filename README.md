@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 86/701
+Solved: 87/701
 
 Language: Java
 
@@ -17,6 +17,7 @@ Language: Java
 |Basic|[252. Meeting Rooms](https://github.com/tiansss/Leetcode/blob/master/Basic/252.%20Meeting%20Rooms(Easy).md)|Easy|
 |Basic|[38. Count and Say](https://github.com/tiansss/Leetcode/blob/master/Basic/38.%20Count%20and%20Say(Easy).md)|Easy|
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
+|List|[158. Read N Characters Given Read4 II - Call multiple times](https://github.com/tiansss/Leetcode/blob/master/List/158.%20Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times(Hard).md)|Hard|
 |List|[311. Sparse Matrix Multiplication](https://github.com/tiansss/Leetcode/blob/master/List/311.%20Sparse%20Matrix%20Multiplication(Medium).md)|Medium|
 |List|[33. Search in Rotated Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/33.%20Search%20in%20Rotated%20Sorted%20Array(Medium).md)|Medium|
 |List|[234. Palindrome Linked List](https://github.com/tiansss/Leetcode/blob/master/List/234.%20Palindrome%20Linked%20List(Easy).md)|Easy|
