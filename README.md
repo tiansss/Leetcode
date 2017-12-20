@@ -7,6 +7,7 @@ Language: Java
 
 | Classification | Problem                                                                                                                                                              | Difficulty |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|Tricky|[277. Find the Celebrity](https://github.com/tiansss/Leetcode/blob/master/Tricky/277.%20Find%20the%20Celebrity(Medium).md)|Medium|
 |Database|[597. Friend Requests I: Overall Acceptance Rate](https://github.com/tiansss/Leetcode/blob/master/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate(Easy).md)|Easy|
 |DP|[10. Regular Expression Matching](https://github.com/tiansss/Leetcode/blob/master/DP/10.%20Regular%20Expression%20Matching(Hard).md)|Hard|
 |DP|[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/tiansss/Leetcode/blob/master/DP/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays(Hard).md)|Hard|
