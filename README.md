@@ -1,13 +1,14 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 87/701
+Solved: 88/701
 
 Language: Java
 
 | Classification | Problem                                                                                                                                                              | Difficulty |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 |Database|[597. Friend Requests I: Overall Acceptance Rate](https://github.com/tiansss/Leetcode/blob/master/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate(Easy).md)|Easy|
+|DP|[10. Regular Expression Matching](https://github.com/tiansss/Leetcode/blob/master/DP/10.%20Regular%20Expression%20Matching(Hard).md)|Hard|
 |DP|[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/tiansss/Leetcode/blob/master/DP/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays(Hard).md)|Hard|
 |DP|[674. Longest Continuous Increasing Subsequence](https://github.com/tiansss/Leetcode/blob/master/DP/674.%20Longest%20Continuous%20Increasing%20Subsequence(Easy).md)|Easy|
 |DP|[91. Decode Ways](https://github.com/tiansss/Leetcode/blob/master/DP/91.%20Decode%20Ways(Medium).md)|Medium|
