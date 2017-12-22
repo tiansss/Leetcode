@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 89/701
+Solved: 90/701
 
 Language: Java
 
@@ -35,6 +35,7 @@ Language: Java
 |Math|[253. Meeting Rooms II](https://github.com/tiansss/Leetcode/blob/master/Math/253.%20Meeting%20Rooms%20II(Medium).md)|Medium|
 |Math|[168. Excel Sheet Column Title](https://github.com/tiansss/Leetcode/blob/master/Math/168.%20Excel%20Sheet%20Column%20Title(Easy).md)|Easy|
 |Math|[621. Task Scheduler](https://github.com/tiansss/Leetcode/blob/master/Math/621.%20Task%20Scheduler(Medium).md)|Medium|
+|String|[76. Minimum Window Substring](https://github.com/tiansss/Leetcode/blob/master/String/76.%20Minimum%20Window%20Substring(Hard).md)|Hard|
 |String|[273. Integer to English Words](https://github.com/tiansss/Leetcode/blob/master/String/273.%20Integer%20to%20English%20Words(Hard).md)|Hard|
 |String|[125. Valid Palindrome](https://github.com/tiansss/Leetcode/blob/master/String/125.%20Valid%20Palindrome(Easy).md)|Easy|
 |String          |[301. Remove Invalid Parentheses](https://github.com/tiansss/Leetcode/blob/master/String/301.%20Remove%20Invalid%20Parentheses(Hard).md)|Hard|
