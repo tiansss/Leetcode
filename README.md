@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 108/701
+Solved: 109/701
 
 Language: Java
 
@@ -13,6 +13,7 @@ Language: Java
 |Tricky|[277. Find the Celebrity](https://github.com/tiansss/Leetcode/blob/master/Tricky/277.%20Find%20the%20Celebrity(Medium).md)|Medium|
 |Database|[597. Friend Requests I: Overall Acceptance Rate](https://github.com/tiansss/Leetcode/blob/master/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate(Easy).md)|Easy|
 |Database|[602. Friend Requests II: Who Has the Most Friends](https://github.com/tiansss/Leetcode/blob/master/Database/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends(Medium).md)|Medium|
+|DP|[494. Target Sum](https://github.com/tiansss/Leetcode/blob/master/DP/494.%20Target%20Sum(Medium).md)|Medium|
 |DP|[139. Word Break](https://github.com/tiansss/Leetcode/blob/master/DP/139.%20Word%20Break(Medium).md)|Medium|
 |DP|[10. Regular Expression Matching](https://github.com/tiansss/Leetcode/blob/master/DP/10.%20Regular%20Expression%20Matching(Hard).md)|Hard|
 |DP|[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/tiansss/Leetcode/blob/master/DP/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays(Hard).md)|Hard|
