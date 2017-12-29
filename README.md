@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 107/701
+Solved: 108/701
 
 Language: Java
 
@@ -26,6 +26,7 @@ Language: Java
 |Basic|[252. Meeting Rooms](https://github.com/tiansss/Leetcode/blob/master/Basic/252.%20Meeting%20Rooms(Easy).md)|Easy|
 |Basic|[38. Count and Say](https://github.com/tiansss/Leetcode/blob/master/Basic/38.%20Count%20and%20Say(Easy).md)|Easy|
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
+|List|[75. Sort Colors](https://github.com/tiansss/Leetcode/blob/master/List/75.%20Sort%20Colors(Medium).md)|Medium|
 |List|[78. Subsets](https://github.com/tiansss/Leetcode/blob/master/List/78.%20Subsets(Medium).md)|Medium|
 |List|[341. Flatten Nested List Iterator](https://github.com/tiansss/Leetcode/blob/master/List/341.%20Flatten%20Nested%20List%20Iterator(Medium).md)|Medium|
 |List|[23. Merge k Sorted Lists](https://github.com/tiansss/Leetcode/blob/master/List/23.%20Merge%20k%20Sorted%20Lists(Hard).md)|Hard|
