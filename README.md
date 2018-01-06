@@ -43,8 +43,8 @@ Language: Java
 | List           | [283. Move Zeroes](https://github.com/tiansss/Leetcode/blob/master/List/283.%20Move%20Zeroes(Easy).md)|Easy|
 |List|[26. Remove Duplicates from Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/26.%20Remove%20Duplicates%20from%20Sorted%20Array(Easy).md)|Easy|
 |List|[325. Maximum Size Subarray Sum Equals k]
-|Math|[477. Total Hamming Distance](https://github.com/tiansss/Leetcode/blob/master/Math/477.%20Total%20Hamming%20Distance(Medium).md)|Medium|
 (https://github.com/tiansss/Leetcode/blob/master/List/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k(Medium).md)|Medium|
+|Math|[477. Total Hamming Distance](https://github.com/tiansss/Leetcode/blob/master/Math/477.%20Total%20Hamming%20Distance(Medium).md)|Medium|
 |Math|[670. Maximum Swap](https://github.com/tiansss/Leetcode/blob/master/Math/670.%20Maximum%20Swap(Medium).md)|Medium|
 | Math           | [50. Pow(x,n)](https://github.com/tiansss/Leetcode/blob/master/Math/50.%20Pow(x%2C%20n)(Medium).md) | Medium     |
 |Math|[253. Meeting Rooms II](https://github.com/tiansss/Leetcode/blob/master/Math/253.%20Meeting%20Rooms%20II(Medium).md)|Medium|
