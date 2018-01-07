@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 116/701
+Solved: 117/701
 
 Language: Java
 
@@ -22,6 +22,7 @@ Language: Java
 |DP|[674. Longest Continuous Increasing Subsequence](https://github.com/tiansss/Leetcode/blob/master/DP/674.%20Longest%20Continuous%20Increasing%20Subsequence(Easy).md)|Easy|
 |DP|[91. Decode Ways](https://github.com/tiansss/Leetcode/blob/master/DP/91.%20Decode%20Ways(Medium).md)|Medium|
 |DP|[121. Best Time to Buy and Sell Stock](https://github.com/tiansss/Leetcode/blob/master/DP/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock(Easy).md)|Easy|
+|Basic|[208. Implement Trie (Prefix Tree)](https://github.com/tiansss/Leetcode/blob/master/Basic/208.%20Implement%20Trie%20(Prefix%20Tree)(Medium).md)|Medium|
 |Basic|[398. Random Pick Index](https://github.com/tiansss/Leetcode/blob/master/Basic/398.%20Random%20Pick%20Index(Medium).md)|Medium|
 |Basic|[215. Kth Largest Element in an Array](https://github.com/tiansss/Leetcode/blob/master/Basic/215.%20Kth%20Largest%20Element%20in%20an%20Array(Medium).md)|Medium|
 |Basic|[56. Merge Intervals](https://github.com/tiansss/Leetcode/blob/master/Basic/56.%20Merge%20Intervals(Medium).md)|Medium|
