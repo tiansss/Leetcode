@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 127/701
+Solved: 128/701
 
 Language: Java
 
@@ -77,6 +77,7 @@ Language: Java
 | String         | [388. Longest Absolute File Path](https://github.com/tiansss/Leetcode/blob/master/String/388.%20Longest%20Absolute%20File%20Path(Medium).md)                         | Medium     |
 | String         | [647. Palindromic Substrings](https://github.com/tiansss/Leetcode/blob/master/String/647.%20Palindromic%20Substrings(Medium).md)                                     | Medium     |
 | String         | [657. Judge Route Circle](https://github.com/tiansss/Leetcode/blob/master/String/657.%20Judge%20Route%20Circle(Easy).md)                                             | Easy       |
+|Tree|[117. Populating Next Right Pointers in Each Node II](https://github.com/tiansss/Leetcode/blob/master/Tree/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II(Medium).md)|Medium|
 |Tree|[102. Binary Tree Level Order Traversal](https://github.com/tiansss/Leetcode/blob/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal(Medium).md)|Medium|
 |Tree|[236. Lowest Common Ancestor of a Binary Tree](https://github.com/tiansss/Leetcode/blob/master/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree(Medium).md)|Medium|
 |Tree|[98. Validate Binary Search Tree](https://github.com/tiansss/Leetcode/blob/master/Tree/98.%20Validate%20Binary%20Search%20Tree(Medium).md)|Medium|
