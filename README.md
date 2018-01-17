@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 124/701
+Solved: 125/701
 
 Language: Java
 
@@ -15,6 +15,7 @@ Language: Java
 |Tricky|[277. Find the Celebrity](https://github.com/tiansss/Leetcode/blob/master/Tricky/277.%20Find%20the%20Celebrity(Medium).md)|Medium|
 |Database|[597. Friend Requests I: Overall Acceptance Rate](https://github.com/tiansss/Leetcode/blob/master/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate(Easy).md)|Easy|
 |Database|[602. Friend Requests II: Who Has the Most Friends](https://github.com/tiansss/Leetcode/blob/master/Database/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends(Medium).md)|Medium|
+|DP|[377. Combination Sum IV](https://github.com/tiansss/Leetcode/blob/master/DP/377.%20Combination%20Sum%20IV(Medium).md)|Medium|
 |DP|[714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/tiansss/Leetcode/blob/master/DP/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee(Medium).md)|Medium|
 |DP|[494. Target Sum](https://github.com/tiansss/Leetcode/blob/master/DP/494.%20Target%20Sum(Medium).md)|Medium|
 |DP|[139. Word Break](https://github.com/tiansss/Leetcode/blob/master/DP/139.%20Word%20Break(Medium).md)|Medium|
