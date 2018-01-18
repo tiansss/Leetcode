@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 134/701
+Solved: 135/701
 
 Language: Java
 
@@ -17,6 +17,7 @@ Language: Java
 |Tricky|[277. Find the Celebrity](https://github.com/tiansss/Leetcode/blob/master/Tricky/277.%20Find%20the%20Celebrity(Medium).md)|Medium|
 |Database|[597. Friend Requests I: Overall Acceptance Rate](https://github.com/tiansss/Leetcode/blob/master/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate(Easy).md)|Easy|
 |Database|[602. Friend Requests II: Who Has the Most Friends](https://github.com/tiansss/Leetcode/blob/master/Database/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends(Medium).md)|Medium|
+|DP|[673. Number of Longest Increasing Subsequence](https://github.com/tiansss/Leetcode/blob/master/DP/673.%20Number%20of%20Longest%20Increasing%20Subsequence(Medium).md)|Medium|
 |DP|764. Largest Plus Sign[](https://github.com/tiansss/Leetcode/blob/master/DP/764.%20Largest%20Plus%20Sign(Medium).md)|Medium|
 |DP|[221. Maximal Square](https://github.com/tiansss/Leetcode/blob/master/DP/221.%20Maximal%20Square(Medium).md)|Medium|
 |DP|[377. Combination Sum IV](https://github.com/tiansss/Leetcode/blob/master/DP/377.%20Combination%20Sum%20IV(Medium).md)|Medium|
