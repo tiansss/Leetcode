@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 136/701
+Solved: 137/701
 
 Language: Java
 
@@ -60,6 +60,7 @@ Language: Java
 | List           | [283. Move Zeroes](https://github.com/tiansss/Leetcode/blob/master/List/283.%20Move%20Zeroes(Easy).md)|Easy|
 |List|[26. Remove Duplicates from Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/26.%20Remove%20Duplicates%20from%20Sorted%20Array(Easy).md)|Easy|
 |List|[325. Maximum Size Subarray Sum Equals k](https://github.com/tiansss/Leetcode/blob/master/List/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k(Medium).md)|Medium|
+|Math|[275. H-Index II](https://github.com/tiansss/Leetcode/blob/master/Math/275.%20H-Index%20II(Medium).md)|Medium|
 |Math|[274. H-Index](https://github.com/tiansss/Leetcode/blob/master/Math/274.%20H-Index(Medium).md)|Medium|
 |Math|[334. Increasing Triplet Subsequence](https://github.com/tiansss/Leetcode/blob/master/Math/334.%20Increasing%20Triplet%20Subsequence(Medium).md)|Medium|
 |Math|[554. Brick Wall](https://github.com/tiansss/Leetcode/blob/master/Math/554.%20Brick%20Wall(Medium).md)|Medium|
