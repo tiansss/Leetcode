@@ -16,7 +16,6 @@ Language: Java
 |Graph|[286. Walls and Gates](https://github.com/tiansss/Leetcode/blob/master/Graph/286.%20Walls%20and%20Gates(Medium).md)|Medium|
 |Graph|[133. Clone Graph](https://github.com/tiansss/Leetcode/blob/master/Graph/133.%20Clone%20Graph(Medium).md)|Medium|
 |Graph|[200. Number of Islands](https://github.com/tiansss/Leetcode/blob/master/Graph/200.%20Number%20of%20Islands(Medium).md)|Medium|
-|Tricky|[277. Find the Celebrity](https://github.com/tiansss/Leetcode/blob/master/Tricky/277.%20Find%20the%20Celebrity(Medium).md)|Medium|
 |Database|[597. Friend Requests I: Overall Acceptance Rate](https://github.com/tiansss/Leetcode/blob/master/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate(Easy).md)|Easy|
 |Database|[602. Friend Requests II: Who Has the Most Friends](https://github.com/tiansss/Leetcode/blob/master/Database/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends(Medium).md)|Medium|
 |DP|[673. Number of Longest Increasing Subsequence](https://github.com/tiansss/Leetcode/blob/master/DP/673.%20Number%20of%20Longest%20Increasing%20Subsequence(Medium).md)|Medium|
@@ -63,6 +62,7 @@ Language: Java
 | List           | [283. Move Zeroes](https://github.com/tiansss/Leetcode/blob/master/List/283.%20Move%20Zeroes(Easy).md)|Easy|
 |List|[26. Remove Duplicates from Sorted Array](https://github.com/tiansss/Leetcode/blob/master/List/26.%20Remove%20Duplicates%20from%20Sorted%20Array(Easy).md)|Easy|
 |List|[325. Maximum Size Subarray Sum Equals k](https://github.com/tiansss/Leetcode/blob/master/List/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k(Medium).md)|Medium|
+|Math|[277. Find the Celebrity](https://github.com/tiansss/Leetcode/blob/master/Math/277.%20Find%20the%20Celebrity(Medium).md)|Medium|
 |Math|[275. H-Index II](https://github.com/tiansss/Leetcode/blob/master/Math/275.%20H-Index%20II(Medium).md)|Medium|
 |Math|[274. H-Index](https://github.com/tiansss/Leetcode/blob/master/Math/274.%20H-Index(Medium).md)|Medium|
 |Math|[334. Increasing Triplet Subsequence](https://github.com/tiansss/Leetcode/blob/master/Math/334.%20Increasing%20Triplet%20Subsequence(Medium).md)|Medium|
