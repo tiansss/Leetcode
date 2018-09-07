@@ -1,0 +1,25 @@
+# 3. Longest Substring Without Repeating Characters
+[https://leetcode.com/problems/longest-substring-without-repeating-characters/description/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+* Using right pointer to scan from 0 to length of the string, once found the repeated character, move the left pointer to the position where the last repeated charater appears+1.
+* Example: ABCBDEB, left = 0, right = 3. found repeated, left = 2(move to the next position of the first B), if found a B again in the future, move left to the second B + 1
+* map(character, position of the last character appears)
+
+## Code
+```
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        Map<Character, Integer> map = new HashMap<>();
+        int l = 0; int max = 0;
+        for (int r = 0; r < s.length(); r++){
+            if (map.containsKey(s.charAt(r)) && map.get(s.charAt(r)) >= l ) { 
+                //If this char is repeated and the position of the last one is larget than left
+                l = map.get(s.charAt(r))+1; //the left pointer moves to
+            }
+            else max = Math.max(max, r-l+1);
+            
+            map.put(s.charAt(r), r);
+        }
+        return max;
+    }
+}
+```
