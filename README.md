@@ -82,6 +82,7 @@ Language: Java
 |Math|[253. Meeting Rooms II](https://github.com/tiansss/Leetcode/blob/master/Math/253.%20Meeting%20Rooms%20II(Medium).md)|Medium|
 |Math|[168. Excel Sheet Column Title](https://github.com/tiansss/Leetcode/blob/master/Math/168.%20Excel%20Sheet%20Column%20Title(Easy).md)|Easy|
 |Math|[621. Task Scheduler](https://github.com/tiansss/Leetcode/blob/master/Math/621.%20Task%20Scheduler(Medium).md)|Medium|
+|String|[3. Longest Substring Without Repeating Characters](https://github.com/tiansss/Leetcode/blob/master/String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|
 |String|[67. Add Binary](https://github.com/tiansss/Leetcode/blob/master/String/67.%20Add%20Binary(Easy).md)|Easy|
 |String|[745. Prefix and Suffix Search](https://github.com/tiansss/Leetcode/blob/master/String/745.%20Prefix%20and%20Suffix%20Search(Hard).md)|Hard|
 |String|[68. Text Justification](https://github.com/tiansss/Leetcode/blob/master/String/68.%20Text%20Justification(Hard).md)|Hard|
