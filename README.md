@@ -1,7 +1,7 @@
 # Leetcode
 My solutions and thoughts in Leetcode🔑
 
-Solved: 153/701
+Solved: 154/701
 
 Language: Java
 
@@ -48,6 +48,7 @@ Language: Java
 |Hash|[380. Insert Delete GetRandom O(1)](https://github.com/tiansss/Leetcode/blob/master/Hash/380.%20Insert%20Delete%20GetRandom%20O(1)(Medium).md)|Medium|
 |Hash|[523. Continuous Subarray Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/523.%20Continuous%20Subarray%20Sum(Medium).md)|Medium|
 | Hash           | [1.Two Sum](https://github.com/tiansss/Leetcode/blob/master/Hash/1.Two%20Sum(Easy).md)                                                                               | Easy       |
+|List|[35. Search Insert Position](https://github.com/tiansss/Leetcode/blob/master/List/35.%20Search%20Insert%20Position.md)|Easy|
 |List|[4. Median of Two Sorted Arrays](https://github.com/tiansss/Leetcode/blob/master/List/4.%20Median%20of%20Two%20Sorted%20Arrays.md)|Hard|
 |List|[2. Add Two Numbers](https://github.com/tiansss/Leetcode/blob/master/List/2.%20Add%20Two%20Numbers.md)|Medium|
 |List|[410. Split Array Largest Sum](https://github.com/tiansss/Leetcode/blob/master/List/410.%20Split%20Array%20Largest%20Sum(Hard).md)|Hard|
